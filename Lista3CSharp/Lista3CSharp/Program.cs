@@ -15,15 +15,15 @@ namespace Lista3CSharp
             Console.WriteLine("Digite seu peso: ");
             float peso = float.Parse(Console.ReadLine());
 
-            float imc = peso / (altura + altura);
+            float imc = peso / (altura * altura);
 
             if(imc < 1)
             {
-                imc = imc * 100;
+                imc = imc * 10000;
             }
             if(imc < 18.5)
             {
-                Console.WriteLine(nome+", Seu IMC é: "+imc+" - Você esta abaixo do peso");
+                Console.WriteLine(nome + ", Seu IMC é: " + imc + " - Você esta abaixo do peso") ;
             }
             else if(imc <25)
             {
