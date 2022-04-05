@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\bin\Debug\net5.0\Lista3CSharp.exe
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\bin\Debug\net5.0\Lista3CSharp.deps.json
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\bin\Debug\net5.0\Lista3CSharp.runtimeconfig.json
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\bin\Debug\net5.0\Lista3CSharp.runtimeconfig.dev.json
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\bin\Debug\net5.0\Lista3CSharp.dll
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\bin\Debug\net5.0\Lista3CSharp.pdb
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\Lista3CSharp.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\Lista3CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\Lista3CSharp.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\Lista3CSharp.AssemblyInfo.cs
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\Lista3CSharp.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\Lista3CSharp.dll
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\refint\Lista3CSharp.dll
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\Lista3CSharp.pdb
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\Lista3CSharp.genruntimeconfig.cache
+C:\Users\erick\Desktop\gen\exercicios\Lista3CSharp\Lista3CSharp\obj\Debug\net5.0\ref\Lista3CSharp.dll
