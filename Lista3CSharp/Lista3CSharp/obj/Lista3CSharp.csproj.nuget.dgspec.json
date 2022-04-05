@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Lista3CSharp\\Lista3CSharp\\Lista3CSharp.csproj": {}
+    "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Modulo1DotNet\\Lista3CSharp\\Lista3CSharp\\Lista3CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Lista3CSharp\\Lista3CSharp\\Lista3CSharp.csproj": {
+    "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Modulo1DotNet\\Lista3CSharp\\Lista3CSharp\\Lista3CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Lista3CSharp\\Lista3CSharp\\Lista3CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Modulo1DotNet\\Lista3CSharp\\Lista3CSharp\\Lista3CSharp.csproj",
         "projectName": "Lista3CSharp",
-        "projectPath": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Lista3CSharp\\Lista3CSharp\\Lista3CSharp.csproj",
+        "projectPath": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Modulo1DotNet\\Lista3CSharp\\Lista3CSharp\\Lista3CSharp.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Lista3CSharp\\Lista3CSharp\\obj\\",
+        "outputPath": "C:\\Users\\erick\\Desktop\\gen\\exercicios\\Modulo1DotNet\\Lista3CSharp\\Lista3CSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
