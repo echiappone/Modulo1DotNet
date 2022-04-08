@@ -1,0 +1,16 @@
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\bin\Debug\net5.0\Lista7CSharp.exe
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\bin\Debug\net5.0\Lista7CSharp.deps.json
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\bin\Debug\net5.0\Lista7CSharp.runtimeconfig.json
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\bin\Debug\net5.0\Lista7CSharp.runtimeconfig.dev.json
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\bin\Debug\net5.0\Lista7CSharp.dll
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\bin\Debug\net5.0\Lista7CSharp.pdb
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\Lista7CSharp.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\Lista7CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\Lista7CSharp.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\Lista7CSharp.AssemblyInfo.cs
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\Lista7CSharp.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\Lista7CSharp.dll
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\refint\Lista7CSharp.dll
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\Lista7CSharp.pdb
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\Lista7CSharp.genruntimeconfig.cache
+C:\Users\erick\Desktop\gen\exercicios\Modulo1DotNet\Lista7CSharp\obj\Debug\net5.0\ref\Lista7CSharp.dll
