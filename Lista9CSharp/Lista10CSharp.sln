@@ -1,0 +1,33 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoologico", "Zoologico\Zoologico.csproj", "{CE143DE2-C0CB-4DC6-B6C3-09922409E5A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{E19F31A4-F3D5-4CB5-B4B6-48B3EB1018E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Venda", "Venda\Venda.csproj", "{0E1DAD18-7131-455E-B03B-8B5C00EE3195}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE143DE2-C0CB-4DC6-B6C3-09922409E5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE143DE2-C0CB-4DC6-B6C3-09922409E5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE143DE2-C0CB-4DC6-B6C3-09922409E5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE143DE2-C0CB-4DC6-B6C3-09922409E5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E19F31A4-F3D5-4CB5-B4B6-48B3EB1018E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E19F31A4-F3D5-4CB5-B4B6-48B3EB1018E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E19F31A4-F3D5-4CB5-B4B6-48B3EB1018E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E19F31A4-F3D5-4CB5-B4B6-48B3EB1018E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E1DAD18-7131-455E-B03B-8B5C00EE3195}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1DAD18-7131-455E-B03B-8B5C00EE3195}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1DAD18-7131-455E-B03B-8B5C00EE3195}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1DAD18-7131-455E-B03B-8B5C00EE3195}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

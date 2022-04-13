@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoologico", "Zoologico\Zoologico.csproj", "{FD673A44-E8A0-46B1-A9D8-77561732E4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geometria", "Geometria\Geometria.csproj", "{32F62051-6A82-4BCA-A579-F194DD697921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD673A44-E8A0-46B1-A9D8-77561732E4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD673A44-E8A0-46B1-A9D8-77561732E4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD673A44-E8A0-46B1-A9D8-77561732E4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD673A44-E8A0-46B1-A9D8-77561732E4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F62051-6A82-4BCA-A579-F194DD697921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F62051-6A82-4BCA-A579-F194DD697921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F62051-6A82-4BCA-A579-F194DD697921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F62051-6A82-4BCA-A579-F194DD697921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
